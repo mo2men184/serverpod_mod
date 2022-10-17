@@ -1,0 +1,11 @@
+class: WallpaperModel
+table: wallpapermodel
+fields:
+  publisher: String
+  publisherUid: String
+  uid: String
+  title: String
+  url: String
+  isVip: bool
+  categories: List<String>
+  data: String

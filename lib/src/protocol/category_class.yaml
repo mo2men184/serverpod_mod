@@ -1,0 +1,4 @@
+class: CategoryModel
+table: categorymodel
+fields:
+  title: String

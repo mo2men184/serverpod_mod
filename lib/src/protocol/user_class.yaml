@@ -1,0 +1,12 @@
+class: UserModel
+table: usermodel
+fields:
+  name: String
+  email: String
+  uid: String
+  isAdmin: bool
+  isLifetime: bool
+  isVip: bool
+  purchasedAt: DateTime?
+  trials: int
+  validUntil: DateTime?
